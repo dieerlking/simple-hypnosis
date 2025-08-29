@@ -50,3 +50,6 @@ state_schema:
 # github_path will be added if it does not exist. It is the URL of the repo.
 
 github_path: "https://github.com/dieerlking/simple-hypnosis"
+
+extension_id: 'simple-hypnosis-6a05d3cc1dce'
+
