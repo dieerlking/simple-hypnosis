@@ -11,11 +11,6 @@ to phrase the command as a new belief of the character.
 
 _Example: \*snap\* "You now believe the sky is green."_
 
-## Overpowering mode
-
-In overpowering mode, the hypnotic effect is stronger and cannot be
-resisted by the character. You can change it on the settings panel.
-
 # Develop
 
 Run this locally with:
